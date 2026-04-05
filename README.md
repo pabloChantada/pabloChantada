@@ -10,7 +10,7 @@
 
 - 4th year **Artificial Intelligence** student 
 - Currently building my **Bachelor's Thesis**: autonomous AI agents in Minecraft using multiple AI algorithms
-- Passionate about **ML, Deep Learning, and Autonomous Systems**. And also anything related to Software Development or Computer Science.
+- Passionate about **ML, Deep Learning, and Autonomous Systems**. And also anything related to Software Development or Computer Science
 - Some background in **Full Stack Development** and **Game Development** 
 
 ---
