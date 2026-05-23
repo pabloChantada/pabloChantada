@@ -58,13 +58,13 @@
 
 [![Repo](https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pabloChantada/TFG_Chantada)
 
+### 🕹️ Autonomous Agents in Minecraft (TFG)
+> The project simulates the historical Kowloon Walled City to explore how spatial specialisation, criminal cartels and demographic cycles can emerge from purely local rules under resource scarcity and weak law enforcement.
+[![Repo](https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pabloChantada/MBA)
+
 ---
 
 ## Github Stats
-
-
-
-
 <p align="center">
   <a href="https://github.com/pabloChantada">
     <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=pabloChantada&show_icons=true&locale=en&layout=demo&theme=Onedark&hide_border=true"/>
