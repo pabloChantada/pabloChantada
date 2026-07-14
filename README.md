@@ -1,16 +1,16 @@
 <h1 align="center">Hey, I'm Chantada</h1>
 
 <p align="center">
-  <em>AI Engineering student · Autonomous Agents · ML & Deep Learning </em>
+  <em>AI Engineer · Autonomous Agents · ML & Deep Learning </em>
 </p>
 
 ---
 
 ## About Me
 
-- 4th year **Artificial Intelligence** student 
-- Currently building my **Bachelor's Thesis**: autonomous AI agents in Minecraft using multiple AI algorithms
-- Passionate about **ML, Deep Learning, and Autonomous Systems**. And also anything related to Software Development or Computer Science
+- **BSc in Artificial Intelligence**
+- Bachelor's Thesis: **autonomous AI agents in Minecraft**, combining multiple AI algorithms
+- Passionate about **ML, Deep Learning, and Autonomous Systems**. And also anything related to Software Development, Computer Science and Data Science.
 - Some background in **Full Stack Development** and **Game Development** 
 
 ---
@@ -34,6 +34,10 @@
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ChromaDB-FFC107?style=for-the-badge&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 </p>
 
 ### Other Languages
@@ -53,13 +57,19 @@
 
 ## Featured Projects
 
-### 🕹️ Autonomous Agents in Minecraft (TFG)
-> Bachelor's thesis project — building AI agents that autonomously complete tasks in Minecraft using a combination of AI algorithms.
+### Autonomous Agents in Minecraft (Simbolic + IL + RL Agents in Minecraft)
+> Bachelor's thesis; AI agents that autonomously complete tasks in Minecraft using a combination of AI algorithms.
 
 [![Repo](https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pabloChantada/TFG_Chantada)
 
-### 🕹️ Autonomous Agents in Minecraft (TFG)
-> The project simulates the historical Kowloon Walled City to explore how spatial specialisation, criminal cartels and demographic cycles can emerge from purely local rules under resource scarcity and weak law enforcement.
+### Interview Generator (LLM + RAG)
+> Technical-interview simulator: generates questions with an LLM over a RAG pipeline, scores each answer with four NLP metrics and adapts the difficulty in real time. Built with FastAPI, LangChain, ChromaDB and Redis.
+
+[![Repo](https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pabloChantada/TAPL)
+
+### Kowloon Walled City (City Simulation in C#)
+> Simulation of the historical Kowloon Walled City, exploring how spatial specialisation, criminal cartels and demographic cycles emerge from purely local rules under resource scarcity and weak law enforcement.
+
 [![Repo](https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pabloChantada/MBA)
 
 ---
