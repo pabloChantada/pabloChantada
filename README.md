@@ -72,6 +72,10 @@
 
 [![Repo](https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pabloChantada/MBA)
 
+### League of Legends Win Predictor (Full Stack ML)
+> Complete Machine Learning pipeline (dataset creation from Riot's API, EDA, model training, etc.) to predict a live win percetange for a League of Legends game.
+
+[![Repo](https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pabloChantada/LeaguePredictor)
 ---
 
 ## Github Stats
