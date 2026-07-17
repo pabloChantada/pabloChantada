@@ -60,12 +60,12 @@
 ### Autonomous Agents in Minecraft (Simbolic + IL + RL Agents in Minecraft)
 > Bachelor's thesis; AI agents that autonomously complete tasks in Minecraft using a combination of AI algorithms.
 
-[![Repo](https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pabloChantada/TFG_Chantada)
+[![Repo](https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pabloChantada/MinecraftAgents)
 
 ### Interview Generator (LLM + RAG)
 > Technical-interview simulator: generates questions with an LLM over a RAG pipeline, scores each answer with four NLP metrics and adapts the difficulty in real time. Built with FastAPI, LangChain, ChromaDB and Redis.
 
-[![Repo](https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pabloChantada/TAPL)
+[![Repo](https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pabloChantada/InterviewGenerator)
 
 ### Kowloon Walled City (City Simulation in C#)
 > Simulation of the historical Kowloon Walled City, exploring how spatial specialisation, criminal cartels and demographic cycles emerge from purely local rules under resource scarcity and weak law enforcement.
