@@ -65,6 +65,12 @@ Open to AI/ML Engineer roles, remote worldwide or hybrid in Spain.
 
 [![Repo](https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pabloChantada/LeaguePredictor)
 
+### Symbolic Regression in a Physics-Driven Engineering Context
+
+> Using Symbolic Regression to discover compact, interpretable mathematical expressions that can predict airfoil self-noise from aerodynamic and geometric features.
+
+[![Repo](https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pabloChantada/SymbolicRegressionAirfoil)
+
 ## GitHub Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=pabloChantada&hide_border=true)
