@@ -71,6 +71,12 @@ Open to AI/ML Engineer roles, remote worldwide or hybrid in Spain.
 
 [![Repo](https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pabloChantada/SymbolicRegressionAirfoil)
 
+### Job Offer Scraper and Evaluation using LLM's
+
+> An automated AI agent and MLOps pipeline that uses RAG and hybrid LLMs (Ollama/Groq) to evaluate job offers against your CV in real-time and generate personalized cover letters. Fully containerized with Docker and orchestrated via n8n.
+
+[![Repo](https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pabloChantada/JobHunterAgent)
+
 ## GitHub Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=pabloChantada&hide_border=true)
