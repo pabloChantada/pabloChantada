@@ -28,6 +28,8 @@ Open to AI/ML Engineer roles, remote worldwide or hybrid in Spain.
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FFC107?style=for-the-badge&logoColor=black)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### Other Languages
 
