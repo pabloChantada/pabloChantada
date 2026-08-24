@@ -16,7 +16,7 @@ Open to AI/ML Engineer roles, remote worldwide or hybrid in Spain.
 
 ## Tech Stack
 
-### AI / ML / Data Science
+### AI / ML / Data Science / MLOps
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -30,6 +30,8 @@ Open to AI/ML Engineer roles, remote worldwide or hybrid in Spain.
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white)
 
 ### Other Languages
 
@@ -45,7 +47,7 @@ Open to AI/ML Engineer roles, remote worldwide or hybrid in Spain.
 
 ### Autonomous Agents in Minecraft (Symbolic + IL + RL Agents in Minecraft)
 
-> Bachelor's thesis; AI agents that autonomously complete tasks in Minecraft using a combination of AI algorithms.
+> Bachelor's thesis; HTN planning vs imitation learning vs reinforcement learning on a Minecraft woodcutting task. DQN/PPO/SAC and ResNet/ViT/GRU/ConvLSTM models built from scratch in PyTorch, served over FastAPI.
 
 [![Repo](https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pabloChantada/MinecraftAgents)
 
@@ -63,7 +65,7 @@ Open to AI/ML Engineer roles, remote worldwide or hybrid in Spain.
 
 ### League of Legends Win Predictor (Full Stack ML)
 
-> Complete Machine Learning pipeline (dataset creation from Riot's API, EDA, model training, etc.) to predict a live win percentage for a League of Legends game.
+> Real-time League of Legends win probability predictor using the Live Client Data API and a calibrated machine learning model, with a Docker version for local use in real games and web demos for visual examples.
 
 [![Repo](https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pabloChantada/LeaguePredictor)
 
@@ -79,6 +81,5 @@ Open to AI/ML Engineer roles, remote worldwide or hybrid in Spain.
 
 [![Repo](https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pabloChantada/JobHunterAgent)
 
-## GitHub Stats
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=pabloChantada&hide_border=true)
+## Stats
+[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=pabloChantada&theme=radical)](https://github.com/pabloChantada/github-readme-stats-fast)
